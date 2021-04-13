@@ -8,5 +8,5 @@ Multifunctional cryptographic app
 
 ### Usage for devloper
 - C# & WPF skill increase
-- Gaining experience in design and cryptography
+- Gaining experience in design, cryptography and Git usage
 - Sandbox for developing a good application system
