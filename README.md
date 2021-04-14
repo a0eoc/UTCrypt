@@ -6,7 +6,7 @@ Multifunctional cryptographic app
 - Asymmetric encryption and key exchange
 - Data hashing
 
-I know that not everyone needs it. Mostly, I develop this app to get skills
+I know that not everyone needs it. Mostly, I develop this for myself.
 
 ### Old versions
 You can still find the old versions of UTCrypt. 
