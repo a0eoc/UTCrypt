@@ -1,0 +1,410 @@
+(Direct) GH - GitHub
+(Direct) DS - Discord CDN
+GD - Google Drive
+ME - Mega
+YD - Yandex.Disk
+DB - DropBox
+
+
+
+UTCrypt v0.6PB1(54)
+2021-04-18
+
+GH: https://github.com/0eoc-0/UTCrypt/releases/download/54/UTCrypt.v0.6PB1.54.exe
+DS: https://cdn.discordapp.com/attachments/775058510399668275/833373875596689449/UTCrypt_v0.6PB154.exe
+GD: https://drive.google.com/open?id=1LIfg37euXqQ7hkw0vPIxayPWbZvgJGYy
+
+
+UTCrypt v0.6PB0(53)
+2021-04-08
+
+1 992 192 bytes
+GH: https://github.com/0eoc-0/UTCrypt/releases/download/53/UTCrypt.v0.6PB0.53.exe
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831554975342788668/UTCrypt_v0.6PB053.exe
+GD: https://drive.google.com/open?id=10mjQ8Ln3kDXmv19VVidIr_tTkfaxCsqD
+
+
+UTCrypt v0.5PR7(52)
+2021-03-29
+
+GH: https://github.com/0eoc-0/UTCrypt/releases/download/52/UTCrypt.v0.5PR7.52.exe
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831554018882224199/UTCrypt_v0.5PR752.exe
+GD: https://drive.google.com/open?id=1DxKfWSpKB0ZpH7nAz_5GUxmwgafkzDpR
+
+
+UTCrypt v0.5PR6(51)
+2021-03-28
+
+GH: https://github.com/0eoc-0/UTCrypt/releases/download/51/UTCrypt.v0.5PR6.51.exe
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831554004428652624/UTCrypt_v0.5PR651.exe
+GD: https://drive.google.com/open?id=1gZwzWt814Hwld4oDqppcRyjhuD7W0zBL
+
+
+UTCrypt v0.5PB5(50)
+2021-03-20
+
+GH: https://github.com/0eoc-0/UTCrypt/releases/download/50/UTCrypt.v0.5PB5.50.exe
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553986724364338/UTCrypt_v0.5PB550.exe
+GD: https://drive.google.com/open?id=1baIOHDfvTD-hi3aytlq0kZPlvM3HI5NK
+
+
+UTCrypt v0.5sR4(49)
+2021-03-14
+
+GH: https://github.com/0eoc-0/UTCrypt/releases/download/49/UTCrypt.v0.5sR4.49.exe
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831554913095909476/UTCrypt_v0.5sR449.exe
+GD: https://drive.google.com/open?id=1jgVch7svI8qUAwJLuIeP9C3HR9v6YcW_
+
+
+UTCrypt v0.5PB3(48)
+2021-02-27
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553968701571072/UTCrypt_v0.5PB348.exe
+GD: https://drive.google.com/open?id=16k2jzcwDCQNAjmOL6HOvRsxqqdS4z_mW
+
+
+UTCrypt v0.5sR2(47) 
+2021-02-20
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831554902375006228/UTCrypt_v0.5sR247.exe
+GD: https://drive.google.com/open?id=1qioljlOxvOcRG_-_cdDfTqdl47NuSiod
+
+
+UTCrypt v0.5PB1(46)
+2021-02-13
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553944827330631/UTCrypt_v0.5PB146.exe
+GD: https://drive.google.com/open?id=1AUibwR4DkOYeS-HuOW-9IVO01wwuJP1o
+
+
+UTCrypt v0.5B0(45)
+2021-02-06
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553928793423922/UTCrypt_v0.5B045.exe
+GD: https://drive.google.com/open?id=1OJ-7pg5imFzRZIizI5s51MbW0rbzIfgt
+
+
+UTCrypt v0.4FR5(41)
+2020-12-12
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553809117347870/UTCrypt_v0.4FR541.exe
+GD: https://drive.google.com/open?id=1AeujoKY6UFkXS4kbH4eKAK40-qthKyDH
+YD: https://disk.yandex.ru/d/IqgpT8UYPgmfTg
+
+
+UTCrypt v0.4OB4(40)
+2020-11-29
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553793074135132/UTCrypt_v0.4OB440.exe
+GD: https://drive.google.com/open?id=1QunbnWGM-PA7VAcHUMrnfa7CHqnUkV6G
+
+
+UTCrypt v0.4FB3(39)
+2020-11-15
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553777889837077/UTCrypt_v0.4FB339.exe
+GD: https://drive.google.com/open?id=1HI20ach0KrpU4P82zEsCkC4cwW5yLmBV
+
+
+UTCrypt v0.4OB2(38)
+2020-11-02
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553764770840626/UTCrypt_v0.4OB238.exe
+GD: https://drive.google.com/open?id=1etvM3SkuUp_mQnz0eWoZs1D8ppIsO_TA
+
+
+UTCrypt v0.4OB1(37)
+2020-10-25
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553740917702737/UTCrypt_v0.4OB137.exe
+GD: https://drive.google.com/open?id=19JnXQWdYfjTjNQiE4DwLHzsh5IDQAbgG
+
+
+UTCrypt v0.3R7(36)
+2020-10-18
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553631152373800/UTCrypt_v0.3R736.exe
+GD: https://drive.google.com/open?id=1UeygvkNp3YVayoLj_qrOp4e1JAJkfPO9
+
+
+UTCrypt v0.3sR6(35)
+2020-10-15
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553379737010216/UTCrypt_v0.3sR635.exe
+GD: https://drive.google.com/open?id=1s6QPAkIYMKRU9bMsFFjDwMUKPvT-ju9e
+
+
+UTCrypt v0.3SR5(34)
+2020-10-05
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553354281910282/UTCrypt_v0.3SR534.exe
+GD: https://drive.google.com/open?id=1qLqEaC8P_HRIdQmQY5dzIdM-W8lNrTWh
+
+
+UTCrypt v0.3sR4(33)
+2020-10-03
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553337328664636/UTCrypt_v0.3sR433.exe
+GD: https://drive.google.com/open?id=1jTeSKKWtM7qTlCPgjIxL6lE8V5pxppav
+
+
+UTCrypt v0.3pR3(32)
+2020-09-20
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553322200465428/UTCrypt_v0.3pR332.exe
+GD: https://drive.google.com/open?id=1LiyezVvAHVYTfyRklrdezxkvROL5V8ww
+
+
+UTCrypt v0.3B2(31)
+2020-09-12
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553062669385748/UTCrypt_v0.3B231.exe
+GD: https://drive.google.com/open?id=19_zaYIj6DiQA_77SBLmVQIUfsZx9yhAT
+
+
+UTCrypt v0.3pB1(30)
+2020-09-04
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831553021678583870/UTCrypt_v0.3pB130.exe
+GD: https://drive.google.com/open?id=10WVpqjIb3BS7ZUkfESdPPKuBXTCLp6Jy
+
+
+UTCrypt v0.2pR4(29)
+2020-08-31
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552918917349446/UTCrypt_v0.2pR429.exe
+GD: https://drive.google.com/open?id=1D_irOinn8yPDHDLqVW7_31XsmB0RqguC
+
+
+UTCrypt v0.2B3(28)
+2020-08-28
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552903813529600/UTCrypt_v0.2B328.exe
+GD: https://drive.google.com/open?id=101U7z2h4XDzPzryyJq9miBNdlJ6n6xMz
+
+
+UTCrypt v0.2R2(27)
+2020-08-26
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552874131488768/UTCrypt_v0.2R227.exe
+GD: https://drive.google.com/open?id=1Wqs6vbLfwFLOyKi15-uZvkhNzTeVAtR8
+
+
+UTCrypt v0.2B1(26)
+2020-08-16
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552857026330665/UTCrypt_v0.2B126.exe
+GD: https://drive.google.com/open?id=1YKK46UNKxUL1TpxSBz_4Pv7cFCc3E1cO
+
+
+UTCrypt v0.1PR19(25)
+2020-08-08
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552737635729458/UTCrypt_v0.1PR1925.exe
+GD: https://drive.google.com/open?id=13e-1hlI61cY292nrlt52or_PEiv2nFJt
+
+
+UTCrypt v0.1PR17(24)
+2020-07-26
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552709710708746/UTCrypt_v0.1PR1724.exe
+GD: https://drive.google.com/open?id=1MM9cGox6NuBSELhL4qgkXA7mWhIda61x
+
+
+UTCrypt v0.1PR16(23)
+2020-07-22
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552585957769216/UTCrypt_v0.1PR1623.exe
+GD: https://drive.google.com/open?id=16cs1oZc-Uug0gUerekid3ahrC8Vc62v5
+
+
+UTCrypt v0.1PR15(22)
+2020-07-17
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552566889414696/UTCrypt_v0.1PR1522.exe
+GD: https://drive.google.com/open?id=1OuYO11D8NCf82OZFsC3LS551spku31c_
+
+
+UTCrypt v0.1PR14(21)
+2020-07-13
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552550419431484/UTCrypt_v0.1PR1421.exe
+GD: https://drive.google.com/open?id=1ZfzSZX2iw2bH_AFqGNgYFpSf1yit4Z4h
+
+
+UTCrypt v0.1PR13(20)
+2020-07-04
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552470601433108/UTCrypt_v0.1PR1320.exe
+GD: https://drive.google.com/open?id=14h6PpPxaIc1Zoyr3iUYGx0ZEksL5Unk_
+
+
+UTCrypt v0.1PR12(19)
+2020-07-02
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552454704627772/UTCrypt_v0.1PR1219.exe
+GD: https://drive.google.com/open?id=1ZPKCWanV4AtG8sCze47x8JuC9CgdEypF
+
+
+UTCrypt v0.1PB11(18)
+2020-07-01
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552370344329326/UTCrypt_v0.1PB1118.exe
+GD: https://drive.google.com/open?id=10GODTloPnLmoFatAVq6oQdinn79lbt6c
+
+
+UTCrypt v0.1PR10(17)
+2020-06-29
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552351739314176/UTCrypt_v0.1PR1017.exe
+GD: https://drive.google.com/open?id=15CUmWJ1QoYnYtHtEBiUF-jHGgsBMyNac
+
+
+UTCrypt v0.1PR8(16)
+2020-06-27
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552332360712242/UTCrypt_v0.1PR816.exe
+GD: https://drive.google.com/open?id=1vjyFydfrrM9cbm0G1Kj4zz3yrdRTYN4-
+
+
+UTCrypt v0.1PR7(15)
+2020-06-25
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552316922527744/UTCrypt_v0.1PR715.exe
+GD: https://drive.google.com/open?id=1aoxE3Pwpb4HC3ceX-9DeQpR8sdQp8Vna
+
+
+UTCrypt v0.1PR6(14)
+2020-06-23
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552298634575952/UTCrypt_v0.1PR614.exe
+GD: https://drive.google.com/open?id=1p-yvqJmsBMiAf99DIKzIbNAF7vqqe5YQ
+YD: https://disk.yandex.ru/d/8VmyxwBGbJxAog
+
+UTCrypt v0.1PR4(13)
+2020-06-19
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552285796204554/UTCrypt_v0.1PR413.exe
+GD: https://drive.google.com/open?id=1MypQMne7wygnUCzVkrhzbJC3xbajficz
+YD: https://disk.yandex.ru/d/q-QgIjVpJzx9_g
+
+UTCrypt v0.1PR3(12)
+2020-06-18
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552271296757840/UTCrypt_v0.1PR312.exe
+GD: https://drive.google.com/open?id=1JP-9hcvGHVDxOl6_KV29xY8x1EJN4xtw
+YD: https://disk.yandex.ru/d/InIZEOVM7YRsyA
+
+
+UTCrypt v0.1PR2(11)
+2020-06-16
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552257694761020/UTCrypt_v0.1PR211.exe
+GD: https://drive.google.com/open?id=1qaFgqDyT6CVWhpzhEUEeLci1lcX8_U1y
+YD: https://disk.yandex.ru/d/maRd5nblTkacew
+
+
+UTCrypt v0.1PR1(10)
+2020-06-13
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552241352966174/UTCrypt_v0.1PR110.exe
+GD: https://drive.google.com/open?id=1YVtH2oyetmMnSKIl4BDEFyknVTK5HmjQ
+YD: https://disk.yandex.ru/d/rCEl05w2hr7yXw
+
+
+UTCrypt v0.0A81(1)
+2019-12-29
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552122700693514/UTCrypt_v0.0A811.exe
+GD: https://drive.google.com/open?id=190d8ObYSWbCX5TbTZzdtuD1ZLdBRvOUE
+YD: https://disk.yandex.ru/d/JDvUej3AwrdFYw
+
+
+UTCrypt v0.0A80(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552104887484477/UTCrypt_v0.0A800.exe
+GD: https://drive.google.com/open?id=1A7xOLaY9RPhrIGqj0xIgTdprNv1vfW7m
+YD: https://disk.yandex.ru/d/VmJnnXW9KZn3nw
+
+
+UTCrypt v0.0A78(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552095277547541/UTCrypt_v0.0A780.exe
+GD: https://drive.google.com/open?id=1HDataGkEkN149JmZjl0fURlz0218GL15
+YD: https://disk.yandex.ru/d/lFC8hhRE1NPy_A
+
+
+UTCrypt v0.0A74(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552084616544307/UTCrypt_v0.0A740.exe
+GD: https://drive.google.com/open?id=1GhUAi7t1opuRtjpJCWkoDfr4hygXQO7Q
+YD: https://disk.yandex.ru/d/oeFK88hBykkBaw
+
+
+UTCrypt v0.0A70(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552072582168656/UTCrypt_v0.0A700.exe
+GD: https://drive.google.com/file/d/13N7Oe_lEDIcszyJgaqyS_RwvVFliGLQt
+YD: https://disk.yandex.ru/d/EQme1EfFYrIYgg
+
+
+v0.0A57(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552062303109160/UTCrypt_v0.0A570.exe
+GD: https://drive.google.com/file/d/1a-Si7SrSUh1JrW3DJD9xm-rnTxXB4mkS
+YD: https://disk.yandex.ru/d/s6y08syyeaAomg
+
+
+UTCrypt v0.0A51(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552053225979914/UTCrypt_v0.0A510.exe
+GD: https://drive.google.com/open?id=1WJL-x8hH2lfgQD-CRn3tzx-6JQDBYytI
+YD: https://disk.yandex.ru/d/v7MOj_ft_SbsaQ
+
+
+UTCrypt v0.0A47(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552042152755260/UTCrypt_v0.0A470.exe
+GD: https://drive.google.com/open?id=1hnVYW2UDsA6EStz7fpXMMI3mYiBcKtVp
+YD: https://disk.yandex.ru/d/pC125h_8zcg5mg
+
+
+UTCrypt v0.0A34(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552034150285372/UTCrypt_v0.0A340.exe
+GD: https://drive.google.com/open?id=1hnVYW2UDsA6EStz7fpXMMI3mYiBcKtVp
+YD: https://disk.yandex.ru/d/XK7Ksa8d13oGpA
+
+
+UTCrypt v0.0A26(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552012348948520/UTCrypt_v0.0A260.exe
+GD: https://drive.google.com/open?id=1kLBXfty3pOgxj7SNPtEdTCRyFvP5DU1r
+YD: https://disk.yandex.ru/d/R_pm_YSHyQ_T4w
+
+
+UTCrypt v0.0A20(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831552005020581888/UTCrypt_v0.0A200.exe
+GD: https://drive.google.com/open?id=181OBMQ1T-Y7RC19aGysFZMl633TQAHFv
+YD: https://disk.yandex.ru/d/-9tFtVwhJcnZ_A
+
+
+UTCrypt v0.0A17(0)
+2019
+
+DS: https://cdn.discordapp.com/attachments/779335654353797181/831551966395236372/UTCrypt_v0.0A170.exe
+GD: https://drive.google.com/open?id=1LFLp6sRHyGiFsGFF30LjEwTjew5QGpmb
+YD: https://disk.yandex.ru/d/SsfqpZiaiP_D-g
+
+
