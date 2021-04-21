@@ -6,10 +6,7 @@ Multifunctional cryptographic app
 - Asymmetric encryption and key exchange
 - Data hashing
 
-### Usage for devloper
-- C# & WPF skill increase
-- Gaining experience in design, cryptography and Git usage
-- Sandbox for developing a good application system
+I know that not everyone needs it. Mostly, I develop this for myself.
 
 ### Old versions
 You can still find the old versions of UTCrypt. 
