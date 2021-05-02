@@ -7,555 +7,711 @@ DB - DropBox
 
 
 
+
+
+UTCrypt v0.6sR2(55)
+2021-05-01
+
+GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/55
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/837931819957354546
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/837929469989486622
+GH Raw Changelog: https://raw.githubusercontent.com/0eoc-0/UTCrypt/main/raw_changelogs/ru/55.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342252669567006/55.v1.txt
+
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/55/UTCrypt.v0.6sR2.55.exe
+DS Download: https://cdn.discordapp.com/attachments/775058510399668275/837931052550324315/UTCrypt_v0.6sR255.exe
+GD Download: https://drive.google.com/open?id=1xFrLw1FuacqFaOb-cf_S3gMGyXB3e6T2
+
+
+
 UTCrypt v0.6PB1(54)
 2021-04-18
+
 GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/54
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/833377164258050048
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/54.v1.txt
 
-GH: https://github.com/a0eoc/UTCrypt/releases/download/54/UTCrypt.v0.6PB1.54.exe
-DS: https://cdn.discordapp.com/attachments/775058510399668275/833373875596689449/UTCrypt_v0.6PB154.exe
-GD: https://drive.google.com/open?id=1LIfg37euXqQ7hkw0vPIxayPWbZvgJGYy
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/833373369869139980
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/54.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342248587591740/54.v1.txt
+
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/54/UTCrypt.v0.6PB1.54.exe
+DS Download: https://cdn.discordapp.com/attachments/775058510399668275/833373875596689449/UTCrypt_v0.6PB154.exe
+GD Download: https://drive.google.com/open?id=1LIfg37euXqQ7hkw0vPIxayPWbZvgJGYy
+
 
 
 UTCrypt v0.6PB0(53)
 2021-04-08
+
 GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/53
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/829702821418762250
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/829701999942959124
 GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/53.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342240589316096/53.v1.txt
 
 1 992 192 bytes
-GH: https://github.com/a0eoc/UTCrypt/releases/download/53/UTCrypt.v0.6PB0.53.exe
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831554975342788668/UTCrypt_v0.6PB053.exe
-GD: https://drive.google.com/open?id=10mjQ8Ln3kDXmv19VVidIr_tTkfaxCsqD
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/53/UTCrypt.v0.6PB0.53.exe
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831554975342788668/UTCrypt_v0.6PB053.exe
+GD Download: https://drive.google.com/open?id=10mjQ8Ln3kDXmv19VVidIr_tTkfaxCsqD
+
 
 
 UTCrypt v0.5PR7(52)
 2021-03-29
+
 GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/52
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/826074499191537705
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/52.v1.txt
 
-GH: https://github.com/a0eoc/UTCrypt/releases/download/52/UTCrypt.v0.5PR7.52.exe
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831554018882224199/UTCrypt_v0.5PR752.exe
-GD: https://drive.google.com/open?id=1DxKfWSpKB0ZpH7nAz_5GUxmwgafkzDpR
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/826074490747486208
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/52.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342237036347432/52.v1.txt
+
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/52/UTCrypt.v0.5PR7.52.exe
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831554018882224199/UTCrypt_v0.5PR752.exe
+GD Download: https://drive.google.com/open?id=1DxKfWSpKB0ZpH7nAz_5GUxmwgafkzDpR
+
 
 
 UTCrypt v0.5PR6(51)
 2021-03-28
+
 GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/51
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/825776341433581628
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/51.v1.txt
 
-GH: https://github.com/a0eoc/UTCrypt/releases/download/51/UTCrypt.v0.5PR6.51.exe
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831554004428652624/UTCrypt_v0.5PR651.exe
-GD: https://drive.google.com/open?id=1gZwzWt814Hwld4oDqppcRyjhuD7W0zBL
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/825776597596504064
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/51.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342235367014410/51.v1.txt
+
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/51/UTCrypt.v0.5PR6.51.exe
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831554004428652624/UTCrypt_v0.5PR651.exe
+GD Download: https://drive.google.com/open?id=1gZwzWt814Hwld4oDqppcRyjhuD7W0zBL
+
 
 
 UTCrypt v0.5PB5(50)
 2021-03-20
+
 GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/50
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/822824118188769321
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/50.v1.txt
 
-GH: https://github.com/a0eoc/UTCrypt/releases/download/50/UTCrypt.v0.5PB5.50.exe
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553986724364338/UTCrypt_v0.5PB550.exe
-GD: https://drive.google.com/open?id=1baIOHDfvTD-hi3aytlq0kZPlvM3HI5NK
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/822823714298003506
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/50.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342234058653726/50.v1.txt
+
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/50/UTCrypt.v0.5PB5.50.exe
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553986724364338/UTCrypt_v0.5PB550.exe
+GD Download: https://drive.google.com/open?id=1baIOHDfvTD-hi3aytlq0kZPlvM3HI5NK
+
 
 
 UTCrypt v0.5sR4(49)
 2021-03-14
+
 GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/49
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/820547133425713193
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/49.v1.txt
 
-GH: https://github.com/a0eoc/UTCrypt/releases/download/49/UTCrypt.v0.5sR4.49.exe
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831554913095909476/UTCrypt_v0.5sR449.exe
-GD: https://drive.google.com/open?id=1jgVch7svI8qUAwJLuIeP9C3HR9v6YcW_
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/820547043625271346
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/49.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342162595708938/49.v1.txt
+
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/49/UTCrypt.v0.5sR4.49.exe
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831554913095909476/UTCrypt_v0.5sR449.exe
+GD Download: https://drive.google.com/open?id=1jgVch7svI8qUAwJLuIeP9C3HR9v6YcW_
+
 
 
 UTCrypt v0.5PB3(48)
 2021-02-27
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/815166527145246730
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/48.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553968701571072/UTCrypt_v0.5PB348.exe
-GD: https://drive.google.com/open?id=16k2jzcwDCQNAjmOL6HOvRsxqqdS4z_mW
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/815166527145246730
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/815164710546309141
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/48.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342161631674378/48.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553968701571072/UTCrypt_v0.5PB348.exe
+GD Download: https://drive.google.com/open?id=16k2jzcwDCQNAjmOL6HOvRsxqqdS4z_mW
+
 
 
 UTCrypt v0.5sR2(47) 
 2021-02-20
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/812613031958675487
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/47.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831554902375006228/UTCrypt_v0.5sR247.exe
-GD: https://drive.google.com/open?id=1qioljlOxvOcRG_-_cdDfTqdl47NuSiod
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/812613031958675487
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/812610824106409984
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/47.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342160574709760/47.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831554902375006228/UTCrypt_v0.5sR247.exe
+GD Download: https://drive.google.com/open?id=1qioljlOxvOcRG_-_cdDfTqdl47NuSiod
+
 
 
 UTCrypt v0.5PB1(46)
 2021-02-13
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/810220893459972147
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/46.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553944827330631/UTCrypt_v0.5PB146.exe
-GD: https://drive.google.com/open?id=1AUibwR4DkOYeS-HuOW-9IVO01wwuJP1o
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/810220893459972147
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/810220403981156363
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/46.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342159064891472/46.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553944827330631/UTCrypt_v0.5PB146.exe
+GD Download: https://drive.google.com/open?id=1AUibwR4DkOYeS-HuOW-9IVO01wwuJP1o
+
 
 
 UTCrypt v0.5B0(45)
 2021-02-06
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/807647399014563890
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/45.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553928793423922/UTCrypt_v0.5B045.exe
-GD: https://drive.google.com/open?id=1OJ-7pg5imFzRZIizI5s51MbW0rbzIfgt
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/807647399014563890
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/807648454800572426
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/45.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342083646718003/45.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553928793423922/UTCrypt_v0.5B045.exe
+GD Download: https://drive.google.com/open?id=1OJ-7pg5imFzRZIizI5s51MbW0rbzIfgt
+
 
 
 UTCrypt v0.4FR5(41)
 2020-12-12
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/787280905429319680
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/41.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553809117347870/UTCrypt_v0.4FR541.exe
-GD: https://drive.google.com/open?id=1AeujoKY6UFkXS4kbH4eKAK40-qthKyDH
-YD: https://disk.yandex.ru/d/IqgpT8UYPgmfTg
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/787280905429319680
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806476109934755881
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/41.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342076210610196/41.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553809117347870/UTCrypt_v0.4FR541.exe
+GD Download: https://drive.google.com/open?id=1AeujoKY6UFkXS4kbH4eKAK40-qthKyDH
+YD Download: https://disk.yandex.ru/d/IqgpT8UYPgmfTg
+
 
 
 UTCrypt v0.4OB4(40)
 2020-11-29
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/782586123138367498
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/40.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553793074135132/UTCrypt_v0.4OB440.exe
-GD: https://drive.google.com/open?id=1QunbnWGM-PA7VAcHUMrnfa7CHqnUkV6G
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/782586123138367498
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806473457260953610
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/40.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342075292319744/40.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553793074135132/UTCrypt_v0.4OB440.exe
+GD Download: https://drive.google.com/open?id=1QunbnWGM-PA7VAcHUMrnfa7CHqnUkV6G
+
 
 
 UTCrypt v0.4FB3(39)
 2020-11-15
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/777453243063992351
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/39.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553777889837077/UTCrypt_v0.4FB339.exe
-GD: https://drive.google.com/open?id=1HI20ach0KrpU4P82zEsCkC4cwW5yLmBV
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/777453243063992351
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806192239348547634
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/39.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342073782108160/39.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553777889837077/UTCrypt_v0.4FB339.exe
+GD Download: https://drive.google.com/open?id=1HI20ach0KrpU4P82zEsCkC4cwW5yLmBV
+
 
 
 UTCrypt v0.4OB2(38)
 2020-11-02
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/772859843206971453
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/38.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553764770840626/UTCrypt_v0.4OB238.exe
-GD: https://drive.google.com/open?id=1etvM3SkuUp_mQnz0eWoZs1D8ppIsO_TA
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/772859843206971453
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806187940358783006
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/38.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342072284872724/38.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553764770840626/UTCrypt_v0.4OB238.exe
+GD Download: https://drive.google.com/open?id=1etvM3SkuUp_mQnz0eWoZs1D8ppIsO_TA
+
 
 
 UTCrypt v0.4OB1(37)
 2020-10-25
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/769837274027917322
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/37.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553740917702737/UTCrypt_v0.4OB137.exe
-GD: https://drive.google.com/open?id=19JnXQWdYfjTjNQiE4DwLHzsh5IDQAbgG
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/769837274027917322
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806163209504423967
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/37.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342009969573888/37.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553740917702737/UTCrypt_v0.4OB137.exe
+GD Download: https://drive.google.com/open?id=19JnXQWdYfjTjNQiE4DwLHzsh5IDQAbgG
+
 
 
 UTCrypt v0.3R7(36)
 2020-10-18
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/767347037184196619
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/36.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553631152373800/UTCrypt_v0.3R736.exe
-GD: https://drive.google.com/open?id=1UeygvkNp3YVayoLj_qrOp4e1JAJkfPO9
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/767347037184196619
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806159912534147083
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/36.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342007663362078/36.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553631152373800/UTCrypt_v0.3R736.exe
+GD Download: https://drive.google.com/open?id=1UeygvkNp3YVayoLj_qrOp4e1JAJkfPO9
+
 
 
 UTCrypt v0.3sR6(35)
 2020-10-15
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/766305947878293515
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/35.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553379737010216/UTCrypt_v0.3sR635.exe
-GD: https://drive.google.com/open?id=1s6QPAkIYMKRU9bMsFFjDwMUKPvT-ju9e
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/766305947878293515
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806158047067111427
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/35.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342005946974229/35.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553379737010216/UTCrypt_v0.3sR635.exe
+GD Download: https://drive.google.com/open?id=1s6QPAkIYMKRU9bMsFFjDwMUKPvT-ju9e
+
 
 
 UTCrypt v0.3SR5(34)
 2020-10-05
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/762690817164574730
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/34.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553354281910282/UTCrypt_v0.3SR534.exe
-GD: https://drive.google.com/open?id=1qLqEaC8P_HRIdQmQY5dzIdM-W8lNrTWh
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/762690817164574730
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/806156015510749215
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/34.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342004328759316/34.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553354281910282/UTCrypt_v0.3SR534.exe
+GD Download: https://drive.google.com/open?id=1qLqEaC8P_HRIdQmQY5dzIdM-W8lNrTWh
+
 
 
 UTCrypt v0.3sR4(33)
 2020-10-03
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/762016498779684894
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/33.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553337328664636/UTCrypt_v0.3sR433.exe
-GD: https://drive.google.com/open?id=1jTeSKKWtM7qTlCPgjIxL6lE8V5pxppav
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/762016498779684894
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805845178970800159
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/33.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342001157472276/33.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553337328664636/UTCrypt_v0.3sR433.exe
+GD Download: https://drive.google.com/open?id=1jTeSKKWtM7qTlCPgjIxL6lE8V5pxppav
+
 
 
 UTCrypt v0.3pR3(32)
 2020-09-20
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/757120673503248495
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/32.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553322200465428/UTCrypt_v0.3pR332.exe
-GD: https://drive.google.com/open?id=1LiyezVvAHVYTfyRklrdezxkvROL5V8ww
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/757120673503248495
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805407794383421481
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/32.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341943745576960/32.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553322200465428/UTCrypt_v0.3pR332.exe
+GD Download: https://drive.google.com/open?id=1LiyezVvAHVYTfyRklrdezxkvROL5V8ww
+
 
 
 UTCrypt v0.3B2(31)
 2020-09-12
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/754362785621737533
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/31.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553062669385748/UTCrypt_v0.3B231.exe
-GD: https://drive.google.com/open?id=19_zaYIj6DiQA_77SBLmVQIUfsZx9yhAT
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/754362785621737533
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805391408394666036
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/31.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341939190693948/31.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553062669385748/UTCrypt_v0.3B231.exe
+GD Download: https://drive.google.com/open?id=19_zaYIj6DiQA_77SBLmVQIUfsZx9yhAT
+
 
 
 UTCrypt v0.3pB1(30)
 2020-09-04
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/751467935213682741
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/30.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831553021678583870/UTCrypt_v0.3pB130.exe
-GD: https://drive.google.com/open?id=10WVpqjIb3BS7ZUkfESdPPKuBXTCLp6Jy
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/751467935213682741
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805389364108066867
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/30.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341935617146931/30.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831553021678583870/UTCrypt_v0.3pB130.exe
+GD Download: https://drive.google.com/open?id=10WVpqjIb3BS7ZUkfESdPPKuBXTCLp6Jy
+
 
 
 UTCrypt v0.2pR4(29)
 2020-08-31
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/749850638011072562
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/29.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552918917349446/UTCrypt_v0.2pR429.exe
-GD: https://drive.google.com/open?id=1D_irOinn8yPDHDLqVW7_31XsmB0RqguC
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/749850638011072562
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805385678937391136
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/29.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341931628888125/29.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552918917349446/UTCrypt_v0.2pR429.exe
+GD Download: https://drive.google.com/open?id=1D_irOinn8yPDHDLqVW7_31XsmB0RqguC
+
 
 
 UTCrypt v0.2B3(28)
 2020-08-28
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/748797099855970305
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/28.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552903813529600/UTCrypt_v0.2B328.exe
-GD: https://drive.google.com/open?id=101U7z2h4XDzPzryyJq9miBNdlJ6n6xMz
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/748797099855970305
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805298318879096853
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/28.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341853375234048/28.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552903813529600/UTCrypt_v0.2B328.exe
+GD Download: https://drive.google.com/open?id=101U7z2h4XDzPzryyJq9miBNdlJ6n6xMz
+
 
 
 UTCrypt v0.2R2(27)
 2020-08-26
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/748205895229374534
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/27.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552874131488768/UTCrypt_v0.2R227.exe
-GD: https://drive.google.com/open?id=1Wqs6vbLfwFLOyKi15-uZvkhNzTeVAtR8
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/748205895229374534
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805286823575814144
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/27.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341849995018280/27.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552874131488768/UTCrypt_v0.2R227.exe
+GD Download: https://drive.google.com/open?id=1Wqs6vbLfwFLOyKi15-uZvkhNzTeVAtR8
+
 
 
 UTCrypt v0.2B1(26)
 2020-08-16
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/744481770900160542
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/26.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552857026330665/UTCrypt_v0.2B126.exe
-GD: https://drive.google.com/open?id=1YKK46UNKxUL1TpxSBz_4Pv7cFCc3E1cO
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/744481770900160542
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805276797448749086
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/26.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341845527691294/26.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552857026330665/UTCrypt_v0.2B126.exe
+GD Download: https://drive.google.com/open?id=1YKK46UNKxUL1TpxSBz_4Pv7cFCc3E1cO
+
 
 
 UTCrypt v0.1PR19(25)
 2020-08-08
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/741566299456667699
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/25.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552737635729458/UTCrypt_v0.1PR1925.exe
-GD: https://drive.google.com/open?id=13e-1hlI61cY292nrlt52or_PEiv2nFJt
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/741566299456667699
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805274938360987648
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/25.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341843950501908/25.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552737635729458/UTCrypt_v0.1PR1925.exe
+GD Download: https://drive.google.com/open?id=13e-1hlI61cY292nrlt52or_PEiv2nFJt
+
 
 
 UTCrypt v0.1PR17(24)
 2020-07-26
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/736807458252521493
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/24.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552709710708746/UTCrypt_v0.1PR1724.exe
-GD: https://drive.google.com/open?id=1MM9cGox6NuBSELhL4qgkXA7mWhIda61x
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/736807458252521493
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805272637437378602
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/24.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341841493164052/24.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552709710708746/UTCrypt_v0.1PR1724.exe
+GD Download: https://drive.google.com/open?id=1MM9cGox6NuBSELhL4qgkXA7mWhIda61x
+
 
 
 UTCrypt v0.1PR16(23)
 2020-07-22
-No GH Release
-DS Release: https://discord.com/channels/735406916058087454/735406916058087457/735407494427574273
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/23.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552585957769216/UTCrypt_v0.1PR1623.exe
-GD: https://drive.google.com/open?id=16cs1oZc-Uug0gUerekid3ahrC8Vc62v5
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/735407494427574273
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805269621783134298
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/23.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341788485681172/23.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552585957769216/UTCrypt_v0.1PR1623.exe
+GD Download: https://drive.google.com/open?id=16cs1oZc-Uug0gUerekid3ahrC8Vc62v5
+
 
 
 UTCrypt v0.1PR15(22)
 2020-07-17
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/22.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552566889414696/UTCrypt_v0.1PR1522.exe
-GD: https://drive.google.com/open?id=1OuYO11D8NCf82OZFsC3LS551spku31c_
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805152032935247912
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/22.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341786317226014/22.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552566889414696/UTCrypt_v0.1PR1522.exe
+GD Download: https://drive.google.com/open?id=1OuYO11D8NCf82OZFsC3LS551spku31c_
+
 
 
 UTCrypt v0.1PR14(21)
 2020-07-13
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/21.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552550419431484/UTCrypt_v0.1PR1421.exe
-GD: https://drive.google.com/open?id=1ZfzSZX2iw2bH_AFqGNgYFpSf1yit4Z4h
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805149987784491029
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/21.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341780298268682/21.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552550419431484/UTCrypt_v0.1PR1421.exe
+GD Download: https://drive.google.com/open?id=1ZfzSZX2iw2bH_AFqGNgYFpSf1yit4Z4h
+
 
 
 UTCrypt v0.1PR13(20)
 2020-07-04
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/20.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552470601433108/UTCrypt_v0.1PR1320.exe
-GD: https://drive.google.com/open?id=14h6PpPxaIc1Zoyr3iUYGx0ZEksL5Unk_
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805147315173064714
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/20.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341754452312084/20.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552470601433108/UTCrypt_v0.1PR1320.exe
+GD Download: https://drive.google.com/open?id=14h6PpPxaIc1Zoyr3iUYGx0ZEksL5Unk_
+
 
 
 UTCrypt v0.1PR12(19)
 2020-07-02
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/19.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552454704627772/UTCrypt_v0.1PR1219.exe
-GD: https://drive.google.com/open?id=1ZPKCWanV4AtG8sCze47x8JuC9CgdEypF
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805145386557243442
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/19.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341727991496773/19.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552454704627772/UTCrypt_v0.1PR1219.exe
+GD Download: https://drive.google.com/open?id=1ZPKCWanV4AtG8sCze47x8JuC9CgdEypF
+
 
 
 UTCrypt v0.1PB11(18)
 2020-07-01
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/18.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552370344329326/UTCrypt_v0.1PB1118.exe
-GD: https://drive.google.com/open?id=10GODTloPnLmoFatAVq6oQdinn79lbt6c
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805142292671234108
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/18.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341720546607114/18.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552370344329326/UTCrypt_v0.1PB1118.exe
+GD Download: https://drive.google.com/open?id=10GODTloPnLmoFatAVq6oQdinn79lbt6c
+
 
 
 UTCrypt v0.1PR10(17)
 2020-06-29
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/17.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552351739314176/UTCrypt_v0.1PR1017.exe
-GD: https://drive.google.com/open?id=15CUmWJ1QoYnYtHtEBiUF-jHGgsBMyNac
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805139247350546432
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/17.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341710932738068/17.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552351739314176/UTCrypt_v0.1PR1017.exe
+GD Download: https://drive.google.com/open?id=15CUmWJ1QoYnYtHtEBiUF-jHGgsBMyNac
+
 
 
 UTCrypt v0.1PR8(16)
 2020-06-27
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/16.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552332360712242/UTCrypt_v0.1PR816.exe
-GD: https://drive.google.com/open?id=1vjyFydfrrM9cbm0G1Kj4zz3yrdRTYN4-
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805090970923434036
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/16.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341698165669918/16.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552332360712242/UTCrypt_v0.1PR816.exe
+GD Download: https://drive.google.com/open?id=1vjyFydfrrM9cbm0G1Kj4zz3yrdRTYN4-
+
 
 
 UTCrypt v0.1PR7(15)
 2020-06-25
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/15.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552316922527744/UTCrypt_v0.1PR715.exe
-GD: https://drive.google.com/open?id=1aoxE3Pwpb4HC3ceX-9DeQpR8sdQp8Vna
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805087220322926672
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/15.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341688569233438/15.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552316922527744/UTCrypt_v0.1PR715.exe
+GD Download: https://drive.google.com/open?id=1aoxE3Pwpb4HC3ceX-9DeQpR8sdQp8Vna
+
 
 
 UTCrypt v0.1PR6(14)
 2020-06-23
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/14.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552298634575952/UTCrypt_v0.1PR614.exe
-GD: https://drive.google.com/open?id=1p-yvqJmsBMiAf99DIKzIbNAF7vqqe5YQ
-YD: https://disk.yandex.ru/d/8VmyxwBGbJxAog
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805085296597008385
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/14.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341680934682714/14.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552298634575952/UTCrypt_v0.1PR614.exe
+GD Download: https://drive.google.com/open?id=1p-yvqJmsBMiAf99DIKzIbNAF7vqqe5YQ
+YD Download: https://disk.yandex.ru/d/8VmyxwBGbJxAog
+
 
 
 UTCrypt v0.1PR4(13)
 2020-06-19
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/13.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552285796204554/UTCrypt_v0.1PR413.exe
-GD: https://drive.google.com/open?id=1MypQMne7wygnUCzVkrhzbJC3xbajficz
-YD: https://disk.yandex.ru/d/q-QgIjVpJzx9_g
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805072642516320266
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/13.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341671367606295/13.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552285796204554/UTCrypt_v0.1PR413.exe
+GD Download: https://drive.google.com/open?id=1MypQMne7wygnUCzVkrhzbJC3xbajficz
+YD Download: https://disk.yandex.ru/d/q-QgIjVpJzx9_g
+
 
 
 UTCrypt v0.1PR3(12)
 2020-06-18
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/12.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552271296757840/UTCrypt_v0.1PR312.exe
-GD: https://drive.google.com/open?id=1JP-9hcvGHVDxOl6_KV29xY8x1EJN4xtw
-YD: https://disk.yandex.ru/d/InIZEOVM7YRsyA
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805056966962446337
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/12.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341663356878888/12.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552271296757840/UTCrypt_v0.1PR312.exe
+GD Download: https://drive.google.com/open?id=1JP-9hcvGHVDxOl6_KV29xY8x1EJN4xtw
+YD Download: https://disk.yandex.ru/d/InIZEOVM7YRsyA
+
 
 
 UTCrypt v0.1PR2(11)
 2020-06-16
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/11.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552257694761020/UTCrypt_v0.1PR211.exe
-GD: https://drive.google.com/open?id=1qaFgqDyT6CVWhpzhEUEeLci1lcX8_U1y
-YD: https://disk.yandex.ru/d/maRd5nblTkacew
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805051128718950401
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/11.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341651801178142/11.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552257694761020/UTCrypt_v0.1PR211.exe
+GD Download: https://drive.google.com/open?id=1qaFgqDyT6CVWhpzhEUEeLci1lcX8_U1y
+YD Download: https://disk.yandex.ru/d/maRd5nblTkacew
+
 
 
 UTCrypt v0.1PR1(10)
 2020-06-13
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/10.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552241352966174/UTCrypt_v0.1PR110.exe
-GD: https://drive.google.com/open?id=1YVtH2oyetmMnSKIl4BDEFyknVTK5HmjQ
-YD: https://disk.yandex.ru/d/rCEl05w2hr7yXw
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805048059409989632
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/10.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341636186308618/10.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552241352966174/UTCrypt_v0.1PR110.exe
+GD Download: https://drive.google.com/open?id=1YVtH2oyetmMnSKIl4BDEFyknVTK5HmjQ
+YD Download: https://disk.yandex.ru/d/rCEl05w2hr7yXw
+
 
 
 UTCrypt v0.0A81(1)
 2019-12-29
-No GH Release
-No DS Release
-GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/1.v1.txt
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552122700693514/UTCrypt_v0.0A811.exe
-GD: https://drive.google.com/open?id=190d8ObYSWbCX5TbTZzdtuD1ZLdBRvOUE
-YD: https://disk.yandex.ru/d/JDvUej3AwrdFYw
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/805043862530949140
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/1.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838341623209000980/1.v1.txt
+
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552122700693514/UTCrypt_v0.0A811.exe
+GD Download: https://drive.google.com/open?id=190d8ObYSWbCX5TbTZzdtuD1ZLdBRvOUE
+YD Download: https://disk.yandex.ru/d/JDvUej3AwrdFYw
+
 
 
 UTCrypt v0.0A80(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552104887484477/UTCrypt_v0.0A800.exe
-GD: https://drive.google.com/open?id=1A7xOLaY9RPhrIGqj0xIgTdprNv1vfW7m
-YD: https://disk.yandex.ru/d/VmJnnXW9KZn3nw
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552104887484477/UTCrypt_v0.0A800.exe
+GD Download: https://drive.google.com/open?id=1A7xOLaY9RPhrIGqj0xIgTdprNv1vfW7m
+YD Download: https://disk.yandex.ru/d/VmJnnXW9KZn3nw
+
 
 
 UTCrypt v0.0A78(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552095277547541/UTCrypt_v0.0A780.exe
-GD: https://drive.google.com/open?id=1HDataGkEkN149JmZjl0fURlz0218GL15
-YD: https://disk.yandex.ru/d/lFC8hhRE1NPy_A
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552095277547541/UTCrypt_v0.0A780.exe
+GD Download: https://drive.google.com/open?id=1HDataGkEkN149JmZjl0fURlz0218GL15
+YD Download: https://disk.yandex.ru/d/lFC8hhRE1NPy_A
+
 
 
 UTCrypt v0.0A74(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552084616544307/UTCrypt_v0.0A740.exe
-GD: https://drive.google.com/open?id=1GhUAi7t1opuRtjpJCWkoDfr4hygXQO7Q
-YD: https://disk.yandex.ru/d/oeFK88hBykkBaw
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552084616544307/UTCrypt_v0.0A740.exe
+GD Download: https://drive.google.com/open?id=1GhUAi7t1opuRtjpJCWkoDfr4hygXQO7Q
+YD Download: https://disk.yandex.ru/d/oeFK88hBykkBaw
+
 
 
 UTCrypt v0.0A70(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552072582168656/UTCrypt_v0.0A700.exe
-GD: https://drive.google.com/file/d/13N7Oe_lEDIcszyJgaqyS_RwvVFliGLQt
-YD: https://disk.yandex.ru/d/EQme1EfFYrIYgg
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552072582168656/UTCrypt_v0.0A700.exe
+GD Download: https://drive.google.com/file/d/13N7Oe_lEDIcszyJgaqyS_RwvVFliGLQt
+YD Download: https://disk.yandex.ru/d/EQme1EfFYrIYgg
+
 
 
 v0.0A57(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552062303109160/UTCrypt_v0.0A570.exe
-GD: https://drive.google.com/file/d/1a-Si7SrSUh1JrW3DJD9xm-rnTxXB4mkS
-YD: https://disk.yandex.ru/d/s6y08syyeaAomg
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552062303109160/UTCrypt_v0.0A570.exe
+GD Download: https://drive.google.com/file/d/1a-Si7SrSUh1JrW3DJD9xm-rnTxXB4mkS
+YD Download: https://disk.yandex.ru/d/s6y08syyeaAomg
+
 
 
 UTCrypt v0.0A51(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552053225979914/UTCrypt_v0.0A510.exe
-GD: https://drive.google.com/open?id=1WJL-x8hH2lfgQD-CRn3tzx-6JQDBYytI
-YD: https://disk.yandex.ru/d/v7MOj_ft_SbsaQ
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552053225979914/UTCrypt_v0.0A510.exe
+GD Download: https://drive.google.com/open?id=1WJL-x8hH2lfgQD-CRn3tzx-6JQDBYytI
+YD Download: https://disk.yandex.ru/d/v7MOj_ft_SbsaQ
+
 
 
 UTCrypt v0.0A47(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552042152755260/UTCrypt_v0.0A470.exe
-GD: https://drive.google.com/open?id=1hnVYW2UDsA6EStz7fpXMMI3mYiBcKtVp
-YD: https://disk.yandex.ru/d/pC125h_8zcg5mg
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552042152755260/UTCrypt_v0.0A470.exe
+GD Download: https://drive.google.com/open?id=1hnVYW2UDsA6EStz7fpXMMI3mYiBcKtVp
+YD Download: https://disk.yandex.ru/d/pC125h_8zcg5mg
+
 
 
 UTCrypt v0.0A34(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552034150285372/UTCrypt_v0.0A340.exe
-GD: https://drive.google.com/open?id=1hnVYW2UDsA6EStz7fpXMMI3mYiBcKtVp
-YD: https://disk.yandex.ru/d/XK7Ksa8d13oGpA
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552034150285372/UTCrypt_v0.0A340.exe
+GD Download: https://drive.google.com/open?id=1hnVYW2UDsA6EStz7fpXMMI3mYiBcKtVp
+YD Download: https://disk.yandex.ru/d/XK7Ksa8d13oGpA
+
 
 
 UTCrypt v0.0A26(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552012348948520/UTCrypt_v0.0A260.exe
-GD: https://drive.google.com/open?id=1kLBXfty3pOgxj7SNPtEdTCRyFvP5DU1r
-YD: https://disk.yandex.ru/d/R_pm_YSHyQ_T4w
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552012348948520/UTCrypt_v0.0A260.exe
+GD Download: https://drive.google.com/open?id=1kLBXfty3pOgxj7SNPtEdTCRyFvP5DU1r
+YD Download: https://disk.yandex.ru/d/R_pm_YSHyQ_T4w
+
 
 
 UTCrypt v0.0A20(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831552005020581888/UTCrypt_v0.0A200.exe
-GD: https://drive.google.com/open?id=181OBMQ1T-Y7RC19aGysFZMl633TQAHFv
-YD: https://disk.yandex.ru/d/-9tFtVwhJcnZ_A
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831552005020581888/UTCrypt_v0.0A200.exe
+GD Download: https://drive.google.com/open?id=181OBMQ1T-Y7RC19aGysFZMl633TQAHFv
+YD Download: https://disk.yandex.ru/d/-9tFtVwhJcnZ_A
+
 
 
 UTCrypt v0.0A17(0)
 2019
-No GH Release
-No DS Release
 
-DS: https://cdn.discordapp.com/attachments/779335654353797181/831551966395236372/UTCrypt_v0.0A170.exe
-GD: https://drive.google.com/open?id=1LFLp6sRHyGiFsGFF30LjEwTjew5QGpmb
-YD: https://disk.yandex.ru/d/SsfqpZiaiP_D-g
+DS Download: https://cdn.discordapp.com/attachments/779335654353797181/831551966395236372/UTCrypt_v0.0A170.exe
+GD Download: https://drive.google.com/open?id=1LFLp6sRHyGiFsGFF30LjEwTjew5QGpmb
+YD Download: https://disk.yandex.ru/d/SsfqpZiaiP_D-g
