@@ -8,14 +8,30 @@ DB - DropBox
 
 
 
+UTCrypt v0.7.0A(58)
+2021-07-12
+
+GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/58
+DS Release: https://discord.com/channels/735406916058087454/735406916058087457/864175073525891073
+
+DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/864154256076439572
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/58.v1.txt
+DS Raw Changelog: https://cdn.discordapp.com/attachments/775058510399668275/864175977391194165/58.v1.txt
+
+GH Download: https://github.com/a0eoc/UTCrypt/releases/download/58/UTCrypt.v0.7.0A.58.exe
+DS Download: https://cdn.discordapp.com/attachments/775058510399668275/864154883947102258/UTCrypt_v0.7.0A58.exe
+GD Download: https://drive.google.com/file/d/1cpxyjOD3yF3_9OF52YDA1uMkI5XX2QUo
+
+
+
 UTCrypt v0.6FR4(57)
 2021-06-04
 
-GH Release: https://github.com/0eoc-0/UTCrypt/releases/tag/57
+GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/57
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/850084188564357181
 
 DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/850083859705757706
-GH Raw Changelog: https://raw.githubusercontent.com/0eoc-0/UTCrypt/main/raw_changelogs/ru/57.v1.txt
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/57.v1.txt
 DS Raw Changelog: https://cdn.discordapp.com/attachments/775058510399668275/850085031329398794/57.v1.txt
 
 GH Download: https://github.com/a0eoc/UTCrypt/releases/download/57/UTCrypt.v0.6FR4.57.exe
@@ -27,11 +43,11 @@ GD Download: https://drive.google.com/open?id=1nrLtjEcMyDw0xqGgakxR_FRzEU5t8TgK
 UTCrypt v0.6SR3(56)
 2021-05-15
 
-GH Release: https://github.com/0eoc-0/UTCrypt/releases/tag/56
+GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/56
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/842842322122309682
 
 DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/842840084561920041
-GH Raw Changelog: https://raw.githubusercontent.com/0eoc-0/UTCrypt/main/raw_changelogs/ru/56.v1.txt
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/56.v1.txt
 DS Raw Changelog: https://cdn.discordapp.com/attachments/775058510399668275/850085030084476988/56.v1.txt
 
 GH Download: https://github.com/a0eoc/UTCrypt/releases/download/56/UTCrypt.v0.6SR3.56.exe
@@ -47,7 +63,7 @@ GH Release: https://github.com/a0eoc/UTCrypt/releases/tag/55
 DS Release: https://discord.com/channels/735406916058087454/735406916058087457/837931819957354546
 
 DS Changelog: https://discord.com/channels/735406916058087454/804902920675393536/837929469989486622
-GH Raw Changelog: https://raw.githubusercontent.com/0eoc-0/UTCrypt/main/raw_changelogs/ru/55.v1.txt
+GH Raw Changelog: https://raw.githubusercontent.com/a0eoc/UTCrypt/main/raw_changelogs/ru/55.v1.txt
 DS Raw Changelog: https://cdn.discordapp.com/attachments/779335654353797181/838342252669567006/55.v1.txt
 
 GH Download: https://github.com/a0eoc/UTCrypt/releases/download/55/UTCrypt.v0.6sR2.55.exe
